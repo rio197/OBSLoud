@@ -1,4 +1,5 @@
 Desktop Audio
+	Gain: 10
 	Limiter:
 		Threshold: -3
 		Release: 60
