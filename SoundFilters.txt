@@ -19,7 +19,7 @@ Microphone
 		Output Gain: 0
 	Noise Suppression: RNNoise (higher quality)
 	Noise Gate:
-		Close Threshold: -65
+		Close Threshold: -45
 		Open Threshold: -30
 		Attack time: 25
 		Hold: 200
