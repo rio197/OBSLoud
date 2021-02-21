@@ -31,6 +31,7 @@ Microphone
 		Hold: 200
 		Release Time: 150
 	Parameteric EQ (ReaEQ from ReaPlugs VST FX Suite):
+		Type: High Shelf
 		Frequency: 2500
 		Gain: 10.3
 		Bandwidth: 3.01
