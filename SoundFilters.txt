@@ -30,7 +30,7 @@ Microphone
 		Attack time: 25
 		Hold: 200
 		Release Time: 150
-	VST 2.x plugin:
+	VST 2.x plugin (Voxengo Marvel GEQ):
 		Marvel GEQ.dll: Presence
 	Gain: 15
 	Deesser (ReaJS from ReaPlugs VST FX Suite):
