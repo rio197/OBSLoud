@@ -23,7 +23,7 @@ Microphone
 		Attack: 25ms
 		Hold: 200ms
 		Release: 150ms
-		Highpass: 80 Hz
+		Highpass: 120 Hz
 	X Disabled Noise Gate:
 		Close Threshold: -45
 		Open Threshold: -39
