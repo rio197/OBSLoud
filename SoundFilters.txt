@@ -19,7 +19,7 @@ Microphone
 		Output Gain: 0
 	Noise Suppression: RNNoise (higher quality)
 	Noise Gate (ReaGate from ReaPlugs VST FX Suite):
-		Threshold: -45
+		Threshold: -29.2
 		Attack: 25ms
 		Hold: 200ms
 		Release: 150ms
