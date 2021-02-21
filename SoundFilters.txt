@@ -25,7 +25,7 @@ Microphone
 		Hold: 200
 		Release Time: 150
 	VST 2.x plugin:
-		Marvel GEQ.dll: Brighter and Bassy
+		Marvel GEQ.dll: Presence
 	Gain: 15
 	Deesser (ReaJS):
 		Frequency (Hz):	4000
