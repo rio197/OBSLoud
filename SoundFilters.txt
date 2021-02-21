@@ -30,8 +30,10 @@ Microphone
 		Attack time: 25
 		Hold: 200
 		Release Time: 150
-	VST 2.x plugin (Voxengo Marvel GEQ):
-		Marvel GEQ.dll: Presence
+	Parameteric EQ (ReaEQ from ReaPlugs VST FX Suite):
+		Frequency: 2500
+		Gain: 10.3
+		Bandwidth: 3.01
 	Gain: 15
 	Deesser (ReaJS from ReaPlugs VST FX Suite):
 		Frequency (Hz):	4000
