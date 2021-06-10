@@ -43,11 +43,3 @@ Microphone
 	Limiter:
 		Threshold: -3
 		Release: 60
-
-Xsplit VCam: (Warm lighting at 20%)
-	Brightness: 31
-	Contrast: 38
-	Hue: 49
-	Saturation: 50
-	Sharpness: 70
-	White Balance: 3300
