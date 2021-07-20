@@ -1,19 +1,7 @@
-Desktop Audio
-	Compressor:
-		Ratio: 5
-		Threshold: -50
-		Attack: 2
-		Release: 650
-		Output Gain: 0
-		Sidechain source: AC_Mic
-	Limiter:
-		Threshold: -3
-		Release: 60
-		
 Microphone
 	Compressor:
 		Ratio: 5
-		Threshold: -30.5
+		Threshold: -30.60
 		Attack: 6
 		Release: 60
 		Output Gain: 0
@@ -30,16 +18,27 @@ Microphone
 		Attack time: 25
 		Hold: 200
 		Release Time: 150
-	Parameteric EQ (ReaEQ from ReaPlugs VST FX Suite):
-		Type: High Shelf
-		Frequency: 2500
-		Gain: 10.3
-		Bandwidth: 3.01
-	Gain: 15
+	Voxengo Marvel GEQ:
+		2.00K: -6dB cut
+		3.17K: -6dB cut
+		5.02K: -6db cut
+	Gain: 3
 	Deesser (ReaJS from ReaPlugs VST FX Suite):
 		Frequency (Hz):	4000
 		Bandwidth (Oct): 1.5
 		Threshold (dB): -56.35
+	Limiter:
+		Threshold: -3
+		Release: 60
+
+Desktop Audio
+	Compressor:
+		Ratio: 5
+		Threshold: -50
+		Attack: 2
+		Release: 650
+		Output Gain: 0
+		Sidechain source: AC_Mic
 	Limiter:
 		Threshold: -3
 		Release: 60
